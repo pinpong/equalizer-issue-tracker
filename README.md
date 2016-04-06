@@ -1,4 +1,4 @@
-[equalizer-issue-tracker][I]
+equalizer-issue-tracker
 ===
 
 The [issue][I] tracker for **Equalizer**.
