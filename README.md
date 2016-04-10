@@ -10,5 +10,11 @@ The [issue][I] tracker for **Equalizer**.
 	<img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height="60" />
 </a>
 
+Changelog:
+---
+
+* 1.0
+  * *Initial release*
+
 [I]: https://github.com/pinpong/equalizer-issue-tracker/issues
 [N]: https://github.com/pinpong/equalizer-issue-tracker/issues/new
