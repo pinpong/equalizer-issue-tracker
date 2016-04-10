@@ -13,6 +13,8 @@ The [issue][I] tracker for **Equalizer**.
 Changelog:
 ---
 
+* 1.2:
+  * Improvements
 * 1.1:
   * **New language:** French
   * **New language:** Bengali
