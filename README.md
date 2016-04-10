@@ -13,13 +13,13 @@ The [issue][I] tracker for **Equalizer**.
 Changelog:
 ---
 
-* 1.2.2:
+* **1.2.2:**
   * Bug fixes
   * **New language:** Hebrew
   * **New language:** Danish
-* 1.2:
+* **1.2:**
   * Improvements
-* 1.1:
+* **1.1:**
   * **New language:** French
   * **New language:** Bengali
   * **New language:** Hindi
@@ -28,7 +28,7 @@ Changelog:
   * **New language:** Italian
   * **New language:** Spanish
   * **New language:** Greek
-* 1.0:
+* **1.0:**
   * *Initial release*
 
 [I]: https://github.com/pinpong/equalizer-issue-tracker/issues
