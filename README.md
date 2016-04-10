@@ -13,6 +13,10 @@ The [issue][I] tracker for **Equalizer**.
 Changelog:
 ---
 
+* 1.2.2:
+  * Bug fixes
+  * **New language:** Hebrew
+  * **New language:** Danish
 * 1.2:
   * Improvements
 * 1.1:
