@@ -13,6 +13,9 @@ The [issue][I] tracker for **Equalizer**.
 Changelog:
 ---
 
+* **1.2.4:**
+  * **New feature:** Disable notification
+  * Bug fixes
 * **1.2.3:**
   * Bug fixes
 * **1.2.2:**
