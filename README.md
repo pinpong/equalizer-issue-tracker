@@ -13,6 +13,8 @@ The [issue][I] tracker for **Equalizer**.
 Changelog:
 ---
 
+* **1.2.7:**
+  * Stability improvements
 * **1.2.6:**
   * Bug fixes
   * Stability improvements
