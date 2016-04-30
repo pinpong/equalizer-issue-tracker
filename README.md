@@ -13,6 +13,16 @@ The [issue][I] tracker for **Equalizer**.
 Changelog:
 ---
 
+
+* **1.3.1:**
+  * Bug fixes
+  * Stability improvements
+  * UI improvements
+* **1.3:**
+  * **New feature:** New free theme: Material
+  * **New feature:** New theme: Pink
+  * Bug fixes
+  * Stability improvements
 * **1.2.9:**
   * UI improvements
 * **1.2.8:**
