@@ -4,7 +4,7 @@ equalizer-issue-tracker
 The [issue][I] tracker for **Equalizer**.
 
 ### [View issues][I]
-### [Open new issue][N]
+### [Open new issue][N] (only English and German language allowed)
 
 <a href="https://play.google.com/store/apps/details?id=eu.pinpong.equalizer">
 	<img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height="60" />
