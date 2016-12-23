@@ -13,6 +13,22 @@ The [issue][I] tracker for **Equalizer**.
 Changelog:
 ---
 
+* **1.3.6:**
+  * Bugfixes
+  * Update translation
+* **1.3.5:**
+  * Bugfixes
+  * Update dependencies
+  * Update translation
+* **1.3.4:**
+  * Bug fixes
+  * Update translation
+* **1.3.3:**
+  * **New feature:** New language: Russian
+  * **New feature:** New language: Japanese
+  * **New feature:** New language: Thai
+  * **New feature:** New language: Indonesia
+  * **New feature:** New language: Portuguese
 * **1.3.2:**
   * Bug fixes
   * Stability improvements
