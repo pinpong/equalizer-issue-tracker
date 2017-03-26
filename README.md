@@ -1,14 +1,21 @@
 equalizer-issue-tracker
 ===
 
+<a href="https://play.google.com/store/apps/details?id=eu.pinpong.equalizer">
+	<img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height="60" />
+</a>
+
 The [issue][I] tracker for **Equalizer**.
 
 ### [View issues][I]
 ### [Open new issue][N] (only English and German language allowed)
 
-<a href="https://play.google.com/store/apps/details?id=eu.pinpong.equalizer">
-	<img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height="60" />
-</a>
+Known issues:
+---
+
+* A short pause when enabling the Equalizer is needed to find out the current audio app.
+* Equalizer doesn't work with: SoundCloud, Pocket Cast (These don't provide track information, do that we can't apply the equalizer.)
+    
 
 Changelog:
 ---
