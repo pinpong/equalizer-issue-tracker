@@ -19,6 +19,8 @@ Known issues:
   Here's a full list of music players lacking support:
   * SoundCloud
   * Pocket Cast
+  * YouTube
+  * Deezer
   * Spotify doesn't fully support the standard. (We do our best to still support Spotify but it may not work sometimes.)
 
 
