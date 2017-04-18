@@ -8,14 +8,19 @@ equalizer-issue-tracker
 The [issue][I] tracker for **Equalizer**.
 
 ### [View issues][I]
-### [Open new issue][N] (only English and German language allowed)
+### [Open new issue][N] (only English and German language allowed, no duplicates)
 
 Known issues:
 ---
 
 * A short pause when enabling the Equalizer is needed to find out the current audio app.
-* Equalizer doesn't work with: SoundCloud, Pocket Cast (These don't provide track information, do that we can't apply the equalizer.)
-    
+* Equalizer doesn't work with some apps that don't provide track information, so that we can't apply the equalizer.
+  You can contact the app developers and suggest them supporting the standard Android API, link them to [this simple guide](EQUALIZER_BROADCAST.md).
+  Here's a full list of music players lacking support:
+  * SoundCloud
+  * Pocket Cast
+  * Spotify doesn't fully support the standard. (We do our best to still support Spotify but it may not work sometimes.)
+
 
 Changelog:
 ---
