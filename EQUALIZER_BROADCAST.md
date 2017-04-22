@@ -24,7 +24,7 @@ public static void openAudioSession(Context context, MediaPlayer player) {
     Intent intent = new Intent(AudioEffect.ACTION_OPEN_AUDIO_EFFECT_CONTROL_SESSION);
     intent.putExtra(AudioEffect.EXTRA_AUDIO_SESSION, player.getAudioSessionId());
     intent.putExtra(AudioEffect.EXTRA_PACKAGE_NAME, context.getPackageName());
-    intent.putExtra(AudioEffect.EXTRA_CONTENT_TYPE,AudioEffect.CONTENT_TYPE_MUSIC);
+    intent.putExtra(AudioEffect.EXTRA_CONTENT_TYPE, AudioEffect.CONTENT_TYPE_MUSIC);
     context.sendBroadcast(intent);
 }
 ```
