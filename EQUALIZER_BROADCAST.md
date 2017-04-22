@@ -1,3 +1,17 @@
+How to support equalizers in music player apps
+===
+
+According to the [Android documentation](https://developer.android.com/reference/android/media/audiofx/AudioEffect.html) equalizer apps can't attach effects to the global output stream anymore:
+> To apply the audio effect to a specific AudioTrack or MediaPlayer instance, 
+> the application must specify the audio session ID of that instance when creating the AudioEffect.
+> (see [`getAudioSessionId()`](https://developer.android.com/reference/android/media/MediaPlayer.html#getAudioSessionId()) for details on audio sessions).
+> 
+> NOTE: attaching insert effects (equalizer, bass boost, virtualizer) to the global audio output mix by use of session 0 is deprecated.
+
+However music player apps can still support equalizer apps by sending out the currently playing audio session ID in a standardized broadcast. To simplify this process we provide three simple methods to copy-paste in your music player app:
+
+### Open an audio session (when you start/play a track)
+
 ```java
 /**
  * Notify other apps like equalizer apps that a new audio session was opened.
@@ -15,6 +29,8 @@ public static void openAudioSession(Context context, MediaPlayer player) {
 }
 ```
 
+### Close an audio session (when you stop/pause a track)
+
 ```java
 /**
  * Notify other apps like equalizer apps that a audio session was closed
@@ -31,6 +47,10 @@ public static void closeAudioSession(Context context, MediaPlayer player) {
     context.sendBroadcast(intent);
 }
 ```
+
+### Open the default equalizer app
+
+This could be used in your music players settings screen to guide users to the equalizer.
 
 ```java
 /**
