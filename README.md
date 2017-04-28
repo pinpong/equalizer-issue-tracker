@@ -7,7 +7,7 @@
 The [issue][issues] tracker for **Equalizer**.
 
 ### [View issues][issues]
-### [Open new issue][new issue] (only English and German language allowed, no duplicates)
+### [Open new issue][new-issue] (only English and German language allowed, no duplicates)
 
 ## Known issues:
 
@@ -30,11 +30,11 @@ We maintain a list of music players that we know to support/not support Equalize
 * [Shuttle Music Player](https://play.google.com/store/apps/details?id=another.music.player):
   Supported :heavy_check_mark:
 * [Deezer](https://play.google.com/store/apps/details?id=deezer.android.app):
-  Not correctly implementing standard Android API ([more details][not-supporting]) :x:
+  They're working on it :wrench:
 * [SoundCloud](https://play.google.com/store/apps/details?id=com.soundcloud.android):
-  Not implementing standard Android API ([more details][not-supporting]) :x:
+  They're [working on it](https://help.soundcloud.com/requests/483626/) :wrench:
 * [VLC](https://play.google.com/store/apps/details?id=org.videolan.vlc):
-  Not implementing standard Android API ([more details][not-supporting]) :x:
+  They're [working on it](https://trac.videolan.org/vlc/ticket/18254) :wrench:
 * [Amazon Music](https://play.google.com/store/apps/details?id=com.amazon.mp3):
   Not implementing standard Android API ([more details][not-supporting]) :x:
 * [Pulsar Music Player](https://play.google.com/store/apps/details?id=com.rhmsoft.pulsar):
