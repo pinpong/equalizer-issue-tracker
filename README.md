@@ -1,3 +1,5 @@
+![Icon](http://i.imgur.com/uSO3wmE.png)
+
 # equalizer-issue-tracker
 
 <a href="https://play.google.com/store/apps/details?id=eu.pinpong.equalizer">
